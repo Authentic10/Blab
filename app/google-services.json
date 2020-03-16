@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "83428171636",
+    "firebase_url": "https://blab-2199.firebaseio.com",
+    "project_id": "blab-2199",
+    "storage_bucket": "blab-2199.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83428171636:android:d4facaf9fe72c4e3ab9621",
+        "android_client_info": {
+          "package_name": "com.blab.blab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83428171636-kpupt9k10h558k6lpm6e77k67uno82u5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blab.blab",
+            "certificate_hash": "45a2917f7113fee15dcf2acd4cddd53ba5803181"
+          }
+        },
+        {
+          "client_id": "83428171636-66ek8dbfpcji6mmlelbrlq2pb9gdduq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeyg3fOTS56sIYX4a0glyJKHLSTETbjZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83428171636-66ek8dbfpcji6mmlelbrlq2pb9gdduq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
